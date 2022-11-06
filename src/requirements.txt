@@ -1,0 +1,7 @@
+Flask==2.0.0
+Werkzeug~=2.0.0
+flask_restful
+Flask-JWT-Extended
+flask_jwt
+paramiko
+gunicorn
